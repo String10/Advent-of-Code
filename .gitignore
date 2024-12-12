@@ -1,0 +1,6 @@
+# input of each puzzle
+puzzle.txt
+
+# virtual environment
+venv/
+__pycache__/
