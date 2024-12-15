@@ -1,3 +1,11 @@
 ## About
 
 [Home Page: About](https://adventofcode.com/2024/about)
+
+## Script Usage
+
+| Script Name | Usage                                                          |
+| ----------- | -------------------------------------------------------------- |
+| setup       | create template code for the question and file to save puzzle. |
+| continue    | stage code for 1st part and move on to 2nd part.               |
+| commit      | commit code for current puzzle.                                |
